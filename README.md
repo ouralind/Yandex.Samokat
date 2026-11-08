@@ -3,7 +3,7 @@
 <b>Яндекс.Самокат</b> - веб-приложения, которое позволяет арендовать электрический самокат на несколько дней. 
 
 
-![web-application]()
+![web-application](https://github.com/ouralind/Yandex.Samokat/blob/main/images/y.samokat_web.png)
 
 В ходе работы над веб-приложением Яндекс.Самокат я:  
 1. разработала mindmap для форм заказа самоката: ["Для кого самокат"](https://miro.com/app/board/uXjVP4tUP2w=/) и ["Про аренду"](https://miro.com/app/board/uXjVP482iUg=/).
