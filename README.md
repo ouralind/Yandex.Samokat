@@ -13,7 +13,7 @@
 
 <b>Яндекс.Самокат</b> - мобильное приложения для курьеров. 
 
-![mobile-application]()
+![mobile-application](https://github.com/ouralind/Yandex.Samokat/blob/main/images/y.samokat_mobile.png)
 
 В ходе работы над веб-приложением Яндекс.Самокат я:
 1. спроектировала [тест-кейсы](https://docs.google.com/spreadsheets/d/1GxOeOnGcTwxdxCw4Mq99d2w1FJVJa8LJpcjxiWcW8VA/edit?usp=sharing) по требованиям к нотификации и отсутствию интернет-соединения и протестировала эту функциональность. Оформила баг-репорты.
